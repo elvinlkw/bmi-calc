@@ -1,0 +1,11 @@
+.content{
+    display:flex;
+    justify-content: center;
+}
+
+.main-container{
+    border: 2px solid black;
+    background: #efefef;
+    width: 500px;
+    height: 500px;
+}
